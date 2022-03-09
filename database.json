@@ -98,27 +98,16 @@
       "name": "FNG",
       "specialty": "breaking things",
       "id": 5
+    },
+    {
+      "name": "Steve",
+      "specialty": "Everything",
+      "id": 6
     }
   ],
   "serviceTickets": [
     {
-      "id": 1,
-      "customerId": 4,
-      "employeeId": 1,
-      "description": "iPhone case cracked. Please replace.",
-      "emergency": false,
-      "dateCompleted": "2021-05-26"
-    },
-    {
-      "id": 2,
-      "customerId": 7,
-      "employeeId": 2,
-      "description": "Cannot connect to any wifi.",
-      "emergency": true,
-      "dateCompleted": ""
-    },
-    {
-      "description": "blah",
+      "description": "oh where, oh where, has my battery life gone?",
       "emergency": true,
       "customerId": 12,
       "employeeId": 1,
@@ -126,44 +115,28 @@
       "id": 3
     },
     {
-      "description": "a",
-      "emergency": false,
+      "description": "I used a magnet to format my HDD",
+      "emergency": true,
       "customerId": 12,
       "employeeId": 1,
       "dateCompleted": "",
       "id": 4
     },
     {
-      "description": "asdf",
-      "emergency": true,
-      "customerId": 12,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 5
-    },
-    {
-      "description": "asd",
-      "emergency": true,
-      "customerId": 12,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 6
-    },
-    {
-      "description": "broke",
-      "emergency": true,
-      "customerId": 12,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 7
-    },
-    {
-      "description": "rawr",
+      "description": "more",
       "emergency": false,
       "customerId": 12,
       "employeeId": 1,
       "dateCompleted": "",
       "id": 8
+    },
+    {
+      "description": "MORE",
+      "emergency": true,
+      "customerId": 12,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 9
     }
   ]
 }
